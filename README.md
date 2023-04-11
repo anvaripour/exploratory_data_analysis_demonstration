@@ -1,6 +1,5 @@
 # exploratory_data_analysis_demonstration
 
-This repository was created for the third part of the assignment.
 
 The Financial Phrasebank dataset from Hugging Face was selected for EDA. The reason that this dataset was chosen is as follow:
 
